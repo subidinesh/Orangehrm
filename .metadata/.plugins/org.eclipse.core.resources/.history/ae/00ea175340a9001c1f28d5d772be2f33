@@ -1,0 +1,8 @@
+package com.selenium.concepts;
+
+public class Script extends BaseClass {
+	public static void main(String[] args) {
+		browser("chrome");
+	}
+
+}

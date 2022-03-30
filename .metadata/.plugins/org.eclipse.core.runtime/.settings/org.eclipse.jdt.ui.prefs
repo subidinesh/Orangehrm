@@ -1,0 +1,11 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.subbu.org.OverLoading"><rhs name\="com.subbu.org.OverLoading"/></lhs><lhs name\="com.subbu.org.ClassOne"><rhs name\="com.subbu.org.ClassTwo"/></lhs><lhs name\="com.subbu.org.ClassTwo"><rhs name\="com.subbu.org.ClassTwo"/></lhs><lhs name\="com.subbu.org.ClassA"><rhs name\="com.subbu.org.ClassB"/></lhs><lhs name\="com.subbu.org.ClassB"><rhs name\="com.subbu.org.ClassB"/></lhs><lhs name\="com.subbu.org.Nila"><rhs name\="com.subbu.org.Yds"/></lhs><lhs name\="com.subbu.org.dinesh"><rhs name\="com.subbu.org.Yds"/></lhs><lhs name\="com.subbu.org.Yds"><rhs name\="com.subbu.org.Yds"/></lhs><lhs name\="subbu.Constructor"><rhs name\="subbu.Constructor"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="org.openqa.selenium.SearchContext"><rhs name\="org.openqa.selenium.chrome.ChromeDriver"/></lhs><lhs name\="org.openqa.selenium.WebDriver"><rhs name\="org.openqa.selenium.chrome.ChromeDriver"/></lhs><lhs name\="org.openqa.selenium.interactions.Actions"><rhs name\="org.openqa.selenium.interactions.Actions"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=19
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
